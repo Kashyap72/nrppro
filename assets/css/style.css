@@ -393,7 +393,7 @@ span.yellow-bubble{
 
 /* First Slide */
 .ps-banner-swiper-main-wrapper .slide-1 {
-    background-image: url(../img/banner-1.JPG);
+    background-image: url(../img/banner-1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -403,7 +403,7 @@ span.yellow-bubble{
 
 /* Second Slide */
 .ps-banner-swiper-main-wrapper .slide-2 {
-    background-image: url(../img/banner-2.JPG);
+    background-image: url(../img/banner-2.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -413,7 +413,7 @@ span.yellow-bubble{
 
 /* Third Slide */
 .ps-banner-swiper-main-wrapper .slide-3 {
-    background-image: url(../img/banner-3.JPG);
+    background-image: url(../img/banner-3.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
